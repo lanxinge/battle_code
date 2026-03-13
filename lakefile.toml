@@ -1,0 +1,10 @@
+name = "VerseFramework"
+version = "0.1.0"
+defaultTargets = ["verseframework"]
+
+[[lean_lib]]
+name = "VerseFramework"
+
+[[lean_exe]]
+name = "verseframework"
+root = "Main"
